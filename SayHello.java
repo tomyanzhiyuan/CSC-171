@@ -3,7 +3,7 @@ public class SayHello {
 	public static void main(String[] args) {
 		/* Name: Tom Yan Zhiyuan
 		 * Email: zyan17@u.rochester.edu
-		 * Date last modified: 3 September 2023, Time: 1150
+		 * Date last modified: 3 September 2023, Time: 2200
 		 * Name/ Number of assignment: HW0 - Say Hello	 
 		 */
 
